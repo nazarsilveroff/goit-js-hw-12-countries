@@ -23,12 +23,13 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
- 
 }
-form,h1,h2 {
+form,
+h1,
+h2 {
   text-align: center;
 }
-ul{
+ul {
   text-align: start;
 }
 .countryList {
